@@ -1,11 +1,11 @@
-# Virat Kohli Career Statistics ñ Live Power BI Dashboard
+# Virat Kohli Career Statistics ‚Äì Live Power BI Dashboard
 
 ## Dashboard Pic
 
 ![Dashboard Screenshot](dashboard/dashboard_screenshot.PNG)
 
 ## Overview
-This project presents **Virat Kohliís year-wise cricket performance** across all formats ó **Test, ODI, T20I, and IPL** ó in an **interactive Power BI dashboard**.  
+This project presents **Virat Kohli‚Äôs year-wise cricket performance** across all formats ‚Äî **Test, ODI, T20I, and IPL** ‚Äî in an **interactive Power BI dashboard**.  
 
 The data is **kept live** through an automated pipeline that uses web scraping to update a Google Sheet, which is then connected to Power BI for real-time refresh.
 
@@ -47,7 +47,7 @@ The Power BI report includes:
 ---
 
 ## License
-This project is licensed under the **MIT License** ñ free to use, modify, and share with attribution.
+This project is licensed under the **MIT License** ‚Äì free to use, modify, and share with attribution.
 
 ## Dataset Source
 
@@ -67,4 +67,5 @@ LinkedIn: www.linkedin.com/in/ashar-aftab-b09924295
 
 ---
 
-> If you found this project useful or insightful, consider giving it a ? on GitHub!
+> If you found this project useful or insightful, consider giving it a ‚≠ê on GitHub!
+
