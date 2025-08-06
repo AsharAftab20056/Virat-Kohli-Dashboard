@@ -1,0 +1,28 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------
+# Credentials (IMPORTANT)
+# ------------------------
+# Ignore all JSON files (e.g., Google Service Account keys)
+*.json
+
+# ------------------------
+# OS Files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Power BI
+# ------------------------
+# Ignore Power BI autosave backups
+*.pbix.autosave
+
+# Uncomment the next line if you DON'T want to upload the PBIX file
+# *.pbix
